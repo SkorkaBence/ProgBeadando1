@@ -1,4 +1,4 @@
-# ProgBeadando1
+# Programozás Beadandó 1
 ## Feladat
 Madarak életének kutatásával foglalkozó szakemberek n különböző településen m
 különböző madárfaj előfordulását tanulmányozzák. Egy adott időszakban megszámolták,
