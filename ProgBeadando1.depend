@@ -1,15 +1,34 @@
 # depslib dependency file v1.0
-1491247492 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\main.cpp
+1492169992 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\main.cpp
 	<iostream>
 	<stdlib.h>
 	<vector>
 	<fstream>
+	"Madar.h"
 	"Tetelek.h"
+	"Read.h"
 
-1491247238 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\tetelek.cpp
+1492169176 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\tetelek.cpp
 	"Tetelek.h"
 	<vector>
 
-1491246592 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\tetelek.h
+1492162779 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\tetelek.h
 	<vector>
+
+1492169543 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\madar.h
+	<vector>
+	<iostream>
+	<fstream>
+	"Read.h"
+
+1492169534 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\madar.cpp
+	"Madar.h"
+	"Tetelek.h"
+
+1492169343 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\read.h
+	<iostream>
+	<sstream>
+
+1492169518 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\read.cpp
+	"Read.h"
 
