@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
     std::vector<std::string> townnames;
 
     if (argc > 1) {
-        FileOlasas(argv[2], data, townnames);
+        FileOlasas(argv[1], data, townnames);
     } else {
         cout << "Madaras feladat menu:" << endl;
         cout << "1: Betoltes standard inputrol" << endl;
