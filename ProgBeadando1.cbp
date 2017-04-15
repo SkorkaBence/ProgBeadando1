@@ -37,6 +37,8 @@
 		<Unit filename="include/Madar.h" />
 		<Unit filename="include/Read.h" />
 		<Unit filename="include/Tetelek.h" />
+		<Unit filename="include/catch.hpp" />
+		<Unit filename="include/testcases.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Madar.cpp" />
 		<Unit filename="src/Read.cpp" />

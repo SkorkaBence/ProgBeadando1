@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1492169992 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\main.cpp
+1492281369 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\main.cpp
 	<iostream>
 	<stdlib.h>
 	<vector>
@@ -7,6 +7,7 @@
 	"Madar.h"
 	"Tetelek.h"
 	"Read.h"
+	"testcases.hpp"
 
 1492169176 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\tetelek.cpp
 	"Tetelek.h"
@@ -15,13 +16,13 @@
 1492162779 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\tetelek.h
 	<vector>
 
-1492169543 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\madar.h
+1492281701 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\madar.h
 	<vector>
 	<iostream>
 	<fstream>
 	"Read.h"
 
-1492169534 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\madar.cpp
+1492281697 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\madar.cpp
 	"Madar.h"
 	"Tetelek.h"
 
@@ -31,4 +32,124 @@
 
 1492169518 source:c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\src\read.cpp
 	"Read.h"
+
+1475441242 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1492282286 c:\users\skork\onedrive - eotvos lorand tudomanyegyetem\ii\programozas\progbeadando1\include\testcases.hpp
+	"Madar.h"
+	"Tetelek.h"
+	"Read.h"
+	"catch.hpp"
 

@@ -26,7 +26,6 @@ bool MinenElofordul(const std::vector<int>& vc) {
 bool EgyVarosbanMindenMadar(const std::vector<std::vector<int> >& adatok, int& index) {
     return LinearisKereses(adatok, MinenElofordul, false, index);
 }
-
 /*
     Feladat: Az inp input sreamet felhasznalva feltolti a tn vektort a varos
         nevekkel, es a matrix matrixot pedig a madar adatokkal.

@@ -8,6 +8,25 @@
 
 using namespace std;
 
+/*
+    *************************************************************************
+    *                                FONTOS                                 *
+    *  A program normál futtatásához a TESTRUN makró NE legyen definiálva!  *
+    * A tesztesetek futtatásához viszont a TESTRUN makró LEGYEM definiálva! *
+    *   Ha a TESTRUN makró nincs definiálva, a program a feladatot fogja    *
+    *        teljesítani, ha a makró definiálva van, akkor lefuttatja       *
+    *                            a teszteseteket                            *
+    *************************************************************************
+*/
+
+// Tesztesetek futtatásához aktiválja ezt a makrót:
+//#define TESTRUN
+
+#ifdef TESTRUN
+#include "testcases.hpp"
+#endif
+
+#ifndef TESTRUN
 bool menupont(int n) {
     return n >= 0 && n <= 2;
 }
@@ -54,3 +73,5 @@ int main(int argc, char* argv[])
 
     return 0;
 }
+
+#endif
