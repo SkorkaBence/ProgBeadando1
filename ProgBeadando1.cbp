@@ -34,8 +34,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Madar.h" />
+		<Unit filename="include/Read.h" />
 		<Unit filename="include/Tetelek.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Madar.cpp" />
+		<Unit filename="src/Read.cpp" />
 		<Unit filename="src/Tetelek.cpp" />
 		<Extensions>
 			<code_completion />
