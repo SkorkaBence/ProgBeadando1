@@ -9,6 +9,13 @@
 using namespace std;
 
 /*
+    Skorka Bence
+    DOMJ1R
+    skorka.bence@gmail.com
+    2. csoport
+*/
+
+/*
     *************************************************************************
     *                                FONTOS                                 *
     *  A program normál futtatásához a TESTRUN makró NE legyen definiálva!  *
